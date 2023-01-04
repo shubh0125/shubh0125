@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Shubh Almal and I am a Final year Computer Science Student. 
-<!--
+
 **shubh0125/shubh0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
