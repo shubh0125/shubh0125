@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Shubh Almal and I am a Final year Computer Science Student. 
+### My name is Shubh Almal. I am a Graduate Computer Science Student at the University Of North Carolina at Charlotte. 
 
 
 
